@@ -2675,3 +2675,11 @@
 			font-weight: 550;
 			margin-bottom: 0px;
 		}
+
+		
+		.tel{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: 30px;
+		}
