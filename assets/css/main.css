@@ -21,6 +21,11 @@
 		vertical-align: baseline;
 	}
 
+	.text{
+		word-break: keep-all;
+	}
+
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
